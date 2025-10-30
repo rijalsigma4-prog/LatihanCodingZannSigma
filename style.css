@@ -8,7 +8,7 @@ body {
   border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
 .kartu-profil {
-  width: 300px;
+  width: 250px;
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
 padding: 20px;
   background-color: white;
